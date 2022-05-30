@@ -1,3 +1,9 @@
+# Quick Start Guide
+1. In a new terminal window enter: "npm install"
+2. In a new terminal window enter: "json-server --watch ./data/db.json"
+3. In a terminal window enter: "npm run start"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
