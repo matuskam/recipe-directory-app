@@ -1,4 +1,9 @@
+# Project Overview
+![recipe-directory-app](https://user-images.githubusercontent.com/51804052/171061799-5d82bb52-0204-4c17-89f8-f8519cd559c5.gif)
+
+
 # Quick Start Guide
+
 1. In a new terminal window enter: "npm install"
 2. In a new terminal window enter: "json-server --watch ./data/db.json"
 3. In a terminal window enter: "npm run start"
